@@ -1,0 +1,4 @@
+include ':navigation'
+include ':navparser:activity'
+include ':navparser'
+include ':navparser:websocket'
